@@ -1043,6 +1043,11 @@ footer .norm {
 
 
 @media only screen and (max-width: 800px) {
+
+    html {
+      right:-5px;
+      left: -5px;
+    }
     nav {
         display: none;
     }
@@ -1142,6 +1147,8 @@ footer .norm {
 }
 
 @media screen and (max-height: 700px) {
+
+
   .logos {
      bottom: -200px;
   }
