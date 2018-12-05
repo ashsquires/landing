@@ -1,0 +1,58 @@
+body {
+  width=100%;
+  margin: 0;
+}
+
+.sec {
+
+}
+
+.content {
+  grid-template-columns: repeat(12,1fr);
+  margin: 0 120px;
+  display: grid;
+}
+
+
+
+
+
+.hero {
+  height:720px;
+  background-color: blue;
+}
+
+.sec1 {
+  background-color: green;
+  height:720px;
+}
+
+.photo {
+  background-color: yellow;
+  height:720px;
+}
+
+.benefits {
+  background-color: pink;
+  height:720px;
+}
+
+.curve {
+  background-color: green;
+  height:720px;
+}
+
+.products {
+  background-color: red;
+  height:720px;
+}
+
+.call {
+  background-color: brown;
+  height:720px;
+}
+
+footer {
+  background-color: grey;
+  height:400px;
+}
