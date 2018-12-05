@@ -184,6 +184,8 @@ nav a:hover {
 .sun {
   position: absolute;
   top: 0;
+  right: 0;
+  left: 0;
   width: 100%;
   height: calc(100vh);
   z-index: -1;
@@ -196,6 +198,8 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#75a6cd",endCo
 .sun2 {
   position: absolute;
   top: 0;
+  right: 0;
+  left: 0;
   width: 100%;
   height: calc(100vh - 80px);
   z-index: 1;
@@ -1057,7 +1061,6 @@ footer .norm {
       all: none;
       margin: 0;
       opacity: 1;
-      bottom: 60px;
       z-index: 4;
       width: 100%;
       max-width: 526px;
@@ -1121,7 +1124,7 @@ footer .norm {
     }
 
     #mainh1 {
-      font-size: 1.8rem;
+      font-size: 1.6rem;
     }
 
     .request {
@@ -1133,9 +1136,25 @@ footer .norm {
       display: inline;
     }
 
-
-
     .footerright {
       justify-content: flex-start;
     }
+}
+
+@media screen and (max-height: 700px) {
+  .logos {
+     bottom: -200px;
+  }
+
+
+  #bridge {
+    bottom: -100px;
+    height: 50vh;
+    width: auto;
+  }
+
+  .sec1 {
+    margin-top: 300px;
+  }
+
 }
