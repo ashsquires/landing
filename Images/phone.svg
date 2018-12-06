@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 17.236">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #eff6ff;
+      }
+
+      .cls-2, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #a1c0e2;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        stroke: #fff;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_2540" data-name="Group 2540" transform="translate(-1079 -628)">
+    <path id="Rectangle_3306" data-name="Rectangle 3306" class="cls-1" d="M3,0H17a3,3,0,0,1,3,3V6a0,0,0,0,1,0,0H0A0,0,0,0,1,0,6V3A3,3,0,0,1,3,0Z" transform="translate(1079 628)"/>
+    <path id="Path_1771" data-name="Path 1771" class="cls-1" d="M18915.506,2719.236h17.094v-3.061s-2.018-4.781-5.068-6.788c-.035-.01-7,0-7,0a13.5,13.5,0,0,0-5.023,6.788C18915.49,2719.309,18915.506,2719.236,18915.506,2719.236Z" transform="translate(-17835 -2074)"/>
+    <g id="Ellipse_412" data-name="Ellipse 412" class="cls-2" transform="translate(1086 637)">
+      <circle class="cls-4" cx="3" cy="3" r="3"/>
+      <circle class="cls-5" cx="3" cy="3" r="2.5"/>
+    </g>
+    <g id="Rectangle_3307" data-name="Rectangle 3307" class="cls-3" transform="translate(1086 632)">
+      <path class="cls-4" d="M2,0H4.5a2,2,0,0,1,2,2V2a0,0,0,0,1,0,0H0A0,0,0,0,1,0,2V2A2,2,0,0,1,2,0Z"/>
+      <path class="cls-5" d="M1.333.5H5.167A.833.833,0,0,1,6,1.333v0a.167.167,0,0,1-.167.167H.667A.167.167,0,0,1,.5,1.333v0A.833.833,0,0,1,1.333.5Z"/>
+    </g>
+  </g>
+</svg>
