@@ -1221,6 +1221,7 @@ footer .norm {
   margin-top: calc(66vh - 200px);
   height: 300px;
   z-index: 0;
+  overflow-x: hidden;
 }
 
 .conmarg {
