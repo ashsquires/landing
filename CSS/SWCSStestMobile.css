@@ -1232,6 +1232,10 @@ footer .norm {
   cursor: pointer;
 }
 
+.conmob {
+  display: none;
+}
+
 
 
 
@@ -1376,6 +1380,10 @@ footer .norm {
     .footerright {
       justify-content: flex-start;
     }
+
+    .concontainer {
+      max-width: 80%;
+    }
 }
 
 @media screen and (max-height: 700px) {
@@ -1395,6 +1403,23 @@ footer .norm {
   .sec1 {
     margin-top: 300px;
   }
+
+  .concontainer {
+    max-width: 100%;
+    align-self: flex-start;
+  }
+
+  /*
+
+  .conmob {
+    display: flex;
+    margin-top: 80px;
+  }
+
+  .conwrap {
+    display: none;
+  }
+  */
 
 }
 
