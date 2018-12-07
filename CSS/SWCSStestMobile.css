@@ -1205,6 +1205,10 @@ footer .norm {
   letter-spacing: 0.05rem;
 }
 
+.conmarg h2 {
+  font-weight: 300;
+}
+
 #openchat {
   color: #2588DD;
   font-weight: 500;
