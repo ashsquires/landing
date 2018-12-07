@@ -1241,7 +1241,7 @@ footer .norm {
     width: 50%;
   }
 }
-@media screen and ( max-width: 955px ){
+@media screen and ( max-width: 990px ){
     #supportnav{
         display: none;
     }
@@ -1271,14 +1271,17 @@ footer .norm {
 
 
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 820px) {
 
     html {
-      right:-5px;
-      left: -5px;
     }
+
     nav {
         display: none;
+    }
+
+    #birdline {
+      display: none;
     }
 
     .navcontent {
