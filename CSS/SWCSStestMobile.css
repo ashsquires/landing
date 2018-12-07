@@ -1030,180 +1030,6 @@ footer .norm {
 
 
 
-@media screen and (max-width: 1300px ){
-  #bridge {
-    width: 50%;
-  }
-}
-@media screen and ( max-width: 955px ){
-    #supportnav{
-        display: none;
-    }
-
-    .nav-button {
-      display: inline;
-    }
-
-    .rightphoto {
-      display: none;
-    }
-    #finalpic {
-      display: block;
-      width: 84%;
-      height:auto;
-      margin: 0 auto 100px auto;
-    }
-    #bridge {
-      align-self: flex-end;
-    }
-
-}
-
-@media screen and (max-width: 1417px) {
-
-}
-
-
-
-@media only screen and (max-width: 800px) {
-
-    html {
-      right:-5px;
-      left: -5px;
-    }
-    nav {
-        display: none;
-    }
-
-    .navcontent {
-      justify-content: center;
-      margin-left: auto;
-      margin-right: auto;
-    }
-    .one {
-      text-align: center;
-    }
-
-
-    #bridge {
-      all: none;
-      margin: 0;
-      opacity: 1;
-      z-index: 4;
-      width: 100%;
-      max-width: 526px;
-    }
-
-    .maintext {
-      margin-left: 8%;
-      margin-right: 8%;
-      margin-top: 20%;
-      text-align: center;
-    }
-
-    .sec1 img {
-      display: none;
-    }
-
-    .sec1 {
-      height: 600px;
-    }
-
-    .rightphoto {
-      display: none;
-    }
-
-    #finalpic {
-      display: block;
-      width: 84%;
-      height:auto;
-      margin: 0 auto 100px auto;
-    }
-
-    .photos{
-      display: none;
-      margin: 0;
-    }
-
-    .sec2content {
-      padding: 0;
-    }
-
-    #cross {
-      display: block;
-      height: 270px;
-      background-position: center;
-      background-image: url(../Images/cross@3x-compressor.png);
-      width: 100%;
-      border-radius: 10px 10px 0 0;
-      z-index: 10;
-      background-repeat: no-repeat;
-      background-size: cover;
-    }
-
-    .p2 {
-      min-width: 300px;
-      text-align: center;
-      margin: 20px 8% 30px 8%;
-    }
-
-    .btn-custom {
-      display: none;
-    }
-
-    #mainh1 {
-      font-size: 1.6rem;
-    }
-
-    .request {
-      width: 100%;
-      margin: 0;
-    }
-
-    .final {
-      display: inline;
-    }
-
-    .footerright {
-      justify-content: flex-start;
-    }
-}
-
-@media screen and (max-height: 700px) {
-
-
-  .logos {
-     bottom: -200px;
-  }
-
-
-  #bridge {
-    bottom: -100px;
-    height: 50vh;
-    width: auto;
-  }
-
-  .sec1 {
-    margin-top: 300px;
-  }
-
-}
-
-@media
-only screen and (-webkit-min-device-pixel-ratio: 1.5),
-only screen and (-o-min-device-pixel-ratio: 3/2),
-only screen and (min--moz-device-pixel-ratio: 1.5),
-only screen and (min-device-pixel-ratio: 1.5){
-
-  html,
-  body{
-    width:100%;
-    overflow-x:hidden;
-  }
-
-}
-
-
 
 
 /*-----------------Terms----------------*/
@@ -1403,4 +1229,181 @@ only screen and (min-device-pixel-ratio: 1.5){
 
 #cem {
   cursor: pointer;
+}
+
+
+
+
+
+@media screen and (max-width: 1300px ){
+  #bridge {
+    width: 50%;
+  }
+}
+@media screen and ( max-width: 955px ){
+    #supportnav{
+        display: none;
+    }
+
+    .nav-button {
+      display: inline;
+    }
+
+    .rightphoto {
+      display: none;
+    }
+    #finalpic {
+      display: block;
+      width: 84%;
+      height:auto;
+      margin: 0 auto 100px auto;
+    }
+    #bridge {
+      align-self: flex-end;
+    }
+
+}
+
+@media screen and (max-width: 1417px) {
+
+}
+
+
+
+@media only screen and (max-width: 800px) {
+
+    html {
+      right:-5px;
+      left: -5px;
+    }
+    nav {
+        display: none;
+    }
+
+    .navcontent {
+      justify-content: center;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .one {
+      text-align: center;
+    }
+
+
+    #bridge {
+      all: none;
+      margin: 0;
+      opacity: 1;
+      z-index: 4;
+      width: 100%;
+      max-width: 526px;
+    }
+
+    .maintext {
+      margin-left: 8%;
+      margin-right: 8%;
+      margin-top: 20%;
+      text-align: center;
+    }
+
+    .sec1 img {
+      display: none;
+    }
+
+    .sec1 {
+      height: 600px;
+    }
+
+    .rightphoto {
+      display: none;
+    }
+
+    #finalpic {
+      display: block;
+      width: 84%;
+      height:auto;
+      margin: 0 auto 100px auto;
+    }
+
+    .photos{
+      display: none;
+      margin: 0;
+    }
+
+    .sec2content {
+      padding: 0;
+    }
+
+    #cross {
+      display: block;
+      height: 270px;
+      background-position: center;
+      background-image: url(../Images/cross@3x-compressor.png);
+      width: 100%;
+      border-radius: 10px 10px 0 0;
+      z-index: 10;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+
+    .p2 {
+      min-width: 300px;
+      text-align: center;
+      margin: 20px 8% 30px 8%;
+    }
+
+    .btn-custom {
+      display: none;
+    }
+
+    #mainh1 {
+      font-size: 1.6rem;
+    }
+
+    .request {
+      width: 100%;
+      margin: 0;
+    }
+
+    .final {
+      display: inline;
+    }
+
+    .footerright {
+      justify-content: flex-start;
+    }
+}
+
+@media screen and (max-height: 700px) {
+
+
+  .logos {
+     bottom: -200px;
+  }
+
+
+  #bridge {
+    bottom: -100px;
+    height: 50vh;
+    width: auto;
+  }
+
+  .sec1 {
+    margin-top: 300px;
+  }
+
+}
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (-o-min-device-pixel-ratio: 3/2),
+only screen and (min--moz-device-pixel-ratio: 1.5),
+only screen and (min-device-pixel-ratio: 1.5){
+
+  html,
+  body{
+    width:100%;
+    overflow-x:hidden;
+  }
+
 }
