@@ -1065,7 +1065,18 @@ footer .norm {
 .termtype li {
   list-style-type: none;
   margin: 0.5rem 0;
+  cursor: pointer;
+  font-weight: 300;
 }
+
+#webterms {
+  font-weight: 500;
+}
+
+.termhid {
+  position:absolute;
+}
+
 
 .termtype {
   padding: 0;
@@ -1093,11 +1104,9 @@ footer .norm {
 .termtext {
   width: 80%;
   margin-left: 40px;
-}
-
-.text {
   margin-top: -20px;
 }
+
 
 .termtext h1 {
   font-size: 2rem;
@@ -1116,6 +1125,13 @@ footer .norm {
   color: #21415D;
 }
 
+#policyterms {
+  display: none;
+}
+
+#supportterms {
+  display: none;
+}
 
 
 /*=============contact---------------*/
