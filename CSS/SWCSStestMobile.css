@@ -446,7 +446,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#75a6cd",endCo
   padding: 40px 8% 40px 0;
   width: 100%;
   justify-content: space-between;
-  margin-bottom: 250px;
+  margin-bottom: 100px;
   min-height: 400px;
 }
 
@@ -592,6 +592,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#75a6cd",endCo
 .para4{
   max-width: 100%;
   margin-left: 8%;
+  margin-bottom: 200px;
   display: flex;
   justify-content: space-between;
 }
