@@ -504,6 +504,10 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#75a6cd",endCo
   margin: 0;
 }
 
+#bigscreenpic {
+  display: none;
+}
+
 #img1 {
   background-image: url("https://i.kinja-img.com/gawker-media/image/upload/s--CWKHA2W9--/c_scale,f_auto,fl_progressive,q_80,w_800/yxeok4wpwe54cn9y05j1.jpg");
 }
@@ -1294,7 +1298,27 @@ footer .norm {
 
 }
 
+@media screen and (min-width: 1824px) {
+  .rightphoto {
+    margin-right: 8%;
+  }
 
+  #bridge {
+    width: 1000px;
+  }
+
+  .photos {
+    justify-content: flex-end;
+  }
+
+  .photos .picform {
+    margin: 0 0 0 40px;
+  }
+
+  #bigscreenpic {
+    display: inline;
+  }
+}
 
 @media only screen and (max-width: 820px) {
 
