@@ -193,6 +193,9 @@ nav a:hover {
   margin: 0;
   right: 0;
   z-index: 1;
+}
+
+.bridgeani {
   animation-name: dissolvein;
   animation-duration: 2s;
   animation-timing-function: ease-in-out;
@@ -258,7 +261,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#75a6cd",endCo
   margin-top: 0;
 }
 .maincontent h2 {
-  max-width: 600px;
+  max-width: 650px;
   grid-column: 1 / span 12;
   grid-row: 3;
   color: rgba(80, 97, 111, 1);
@@ -403,8 +406,9 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#75a6cd",endCo
 .p1 h1 {
   font-size: 1.5rem;
   color: #0096D6;
-  font-weight: 400;
+  font-weight: 500;
   margin-bottom: 2rem;
+  letter-spacing: 0.03rem;
 }
 
 .p1 p {
@@ -467,14 +471,18 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#75a6cd",endCo
   margin: 20px 8% 20px 2%;
   max-width: 700px;
   min-width: 450px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .p2 h1 {
   font-size: 1.5rem;
   color: #0096D6;
-  font-weight: 400;
+  font-weight: 500;
   margin-bottom: 2rem;
   margin-top: 20px;
+  letter-spacing: 0.03rem;
 }
 
 .p2 p {
@@ -540,8 +548,9 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#75a6cd",endCo
 .para3 h1 {
   font-size: 1.5rem;
   color: #0096D6;
-  font-weight: 400;
+  font-weight: 500;
   margin-bottom: 2rem;
+  letter-spacing: 0.03rem;
 }
 
 .para3 p {
@@ -621,8 +630,9 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#75a6cd",endCo
 .para4 .title h1 {
   font-size: 1.5rem;
   color: #2588DD;
-  font-weight: 400;
+  font-weight: 500;
   margin-bottom: 4rem;
+  letter-spacing: 0.03rem;
 }
 
 .products img {
@@ -862,6 +872,7 @@ footer .norm {
   color: #4B6B86;
   margin-top: 0;
   margin-bottom: 2rem;
+  letter-spacing: 0.03rem;
 }
 
 .ab1 p {
