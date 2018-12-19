@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 826 392">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-10, .cls-16, .cls-17, .cls-18, .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-13, .cls-15, .cls-4 {
+        fill: #8091a2;
+      }
+
+      .cls-13, .cls-4 {
+        font-size: 20px;
+      }
+
+      .cls-14, .cls-4 {
+        font-family: ProximaNova-Light, Proxima Nova;
+        font-weight: 300;
+      }
+
+      .cls-4 {
+        letter-spacing: 0.03em;
+      }
+
+      .cls-5 {
+        fill: #2588dd;
+      }
+
+      .cls-6 {
+        fill: #5fc2e0;
+      }
+
+      .cls-7 {
+        fill: #78d9d5;
+      }
+
+      .cls-8 {
+        fill: #dae9f7;
+      }
+
+      .cls-9 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-10 {
+        stroke: #d9e8f8;
+      }
+
+      .cls-11 {
+        fill: #daf0f7;
+      }
+
+      .cls-12 {
+        fill: #daf7f6;
+      }
+
+      .cls-13, .cls-15 {
+        font-family: ProximaNova-Regular, Proxima Nova;
+        letter-spacing: 0.05em;
+      }
+
+      .cls-14 {
+        font-size: 16px;
+      }
+
+      .cls-15 {
+        font-size: 21px;
+      }
+
+      .cls-16 {
+        stroke: #78d9d5;
+      }
+
+      .cls-16, .cls-17, .cls-18 {
+        stroke-linecap: round;
+      }
+
+      .cls-16, .cls-17 {
+        stroke-width: 2px;
+      }
+
+      .cls-17 {
+        stroke: #5fc2e0;
+      }
+
+      .cls-18 {
+        stroke: #2588dd;
+        stroke-width: 3px;
+      }
+
+      .cls-19 {
+        filter: url(#Line_2025);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3330" data-name="Rectangle 3330" class="cls-1" width="826" height="392" transform="translate(134 368)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect class="cls-2" width="628.407" height="254.381"/>
+    </clipPath>
+    <filter id="Line_2025" x="180.841" y="-10.252" width="659.411" height="151.707" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Mask_Group_76" data-name="Mask Group 76" class="cls-3" transform="translate(-134 -368)">
+    <g id="Group_2564" data-name="Group 2564">
+      <text id="Traditional_Processes" data-name="Traditional Processes" class="cls-4" transform="translate(171 730)"><tspan x="0" y="0">Traditional Processes</tspan></text>
+      <text id="Digitising_Existing_Processes" data-name="Digitising Existing 
+Processes" class="cls-4" transform="translate(474 730)"><tspan x="0" y="0">Digitising Existing </tspan><tspan x="0" y="24">Processes</tspan></text>
+      <text id="Reinvented_Modern_Processes" data-name="Reinvented Modern 
+Processes" class="cls-4" transform="translate(775 730)"><tspan x="0" y="0">Reinvented Modern </tspan><tspan x="0" y="24">Processes</tspan></text>
+      <circle id="Ellipse_423" data-name="Ellipse 423" class="cls-5" cx="8.5" cy="8.5" r="8.5" transform="translate(738 716)"/>
+      <circle id="Ellipse_424" data-name="Ellipse 424" class="cls-6" cx="8.5" cy="8.5" r="8.5" transform="translate(437 716)"/>
+      <circle id="Ellipse_425" data-name="Ellipse 425" class="cls-7" cx="8.5" cy="8.5" r="8.5" transform="translate(134 716)"/>
+      <g id="Group_2562" data-name="Group 2562">
+        <path id="Path_1795" data-name="Path 1795" class="cls-8" d="M10435.5-2284.352V-2167.4H11062v-234.415Z" transform="translate(-10103.906 2773.828)"/>
+        <g id="Repeat_Grid_56" data-name="Repeat Grid 56" class="cls-9" transform="translate(331.593 368.295)">
+          <g transform="translate(-140.5 -2662.5)">
+            <line id="Line_2022" data-name="Line 2022" class="cls-10" x2="625.907" transform="translate(140.5 2665.5)"/>
+          </g>
+          <g transform="translate(-140.5 -2603.5)">
+            <line id="Line_2022-2" data-name="Line 2022" class="cls-10" x2="625.907" transform="translate(140.5 2665.5)"/>
+          </g>
+          <g transform="translate(-140.5 -2544.5)">
+            <line id="Line_2022-3" data-name="Line 2022" class="cls-10" x2="625.907" transform="translate(140.5 2665.5)"/>
+          </g>
+          <g transform="translate(-140.5 -2485.5)">
+            <line id="Line_2022-4" data-name="Line 2022" class="cls-10" x2="625.907" transform="translate(140.5 2665.5)"/>
+          </g>
+          <g transform="translate(-140.5 -2426.5)">
+            <line id="Line_2022-5" data-name="Line 2022" class="cls-10" x2="625.907" transform="translate(140.5 2665.5)"/>
+          </g>
+        </g>
+        <path id="Path_1794" data-name="Path 1794" class="cls-11" d="M10435.5-2320.844v116.212H11062v-58.259Z" transform="translate(-10103.906 2811.91)"/>
+        <path id="Path_1793" data-name="Path 1793" class="cls-12" d="M10435.5-2320.843v116.705H11062Z" transform="translate(-10103.906 2811.416)"/>
+        <text id="VALUE_PER_RELATIONSHIP" data-name="VALUE 
+PER RELATIONSHIP" class="cls-13" transform="translate(134 475.56)"><tspan x="0" y="0">VALUE </tspan><tspan class="cls-14"><tspan x="0" y="21">PER RELATIONSHIP</tspan></tspan></text>
+        <text id="NUMBER_OF_RELATIONSHIPS" data-name="NUMBER OF RELATIONSHIPS" class="cls-15" transform="translate(499.071 648.294)"><tspan x="0" y="0">NUMBER OF RELATIONSHIPS</tspan></text>
+        <path id="Path_1796" data-name="Path 1796" class="cls-16" d="M0,0,625.408,117.378" transform="translate(331.593 489.702)"/>
+        <line id="Line_2024" data-name="Line 2024" class="cls-17" x2="625.976" y2="59.015" transform="translate(331.593 489.702)"/>
+        <g class="cls-19" transform="matrix(1, 0, 0, 1, 134, 368)">
+          <line id="Line_2025-2" data-name="Line 2025" class="cls-18" y1="118.202" x2="625.907" transform="translate(197.59 3.5)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
