@@ -565,6 +565,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#75a6cd",endCo
 .graphwrapper1 img {
   width: 600px;
   position: sticky;
+  position: -webkit-sticky;
   top: calc(50vh - 105px);
   display: inline-block;
 }
