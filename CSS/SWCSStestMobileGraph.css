@@ -662,9 +662,8 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#75a6cd",endCo
 }
 
 .eachone img {
-  height: 60px;
-  width: 60px;
-  margin-right: 10px;
+  height: 30px;
+  margin-right: 30px;
 }
 
 .eachone h2 {
@@ -676,7 +675,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#75a6cd",endCo
 }
 
 .eachone p {
-  color: #21415D;
+  color: #5A6D7E;
   font-weight: 300;
 }
 
@@ -739,9 +738,14 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#75a6cd",endCo
 }
 
 .product-text h2 {
-  margin-top: 0;
   color: #21415D;
+  margin-top: 0;
   font-size: 1rem;
+  letter-spacing: 0.03rem;
+}
+
+.product-description {
+  color: #5A6D7E;
 }
 
 .product-text {
@@ -801,6 +805,8 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#75a6cd",endCo
 #finalpic {
   display: none;
 }
+
+
 
 /*-------------FINAL REQUEST---------*/
 

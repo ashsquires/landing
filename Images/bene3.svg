@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 36.829 36.647">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #ebe8e8;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        fill: #2588dd;
+        opacity: 0.5;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="23.734" height="23.552"/>
+    </clipPath>
+  </defs>
+  <g id="Group_2568" data-name="Group 2568" transform="translate(-140 -1476)">
+    <g id="Group_2544" data-name="Group 2544" transform="translate(140 1476)">
+      <rect id="Rectangle_3311" data-name="Rectangle 3311" class="cls-2" width="29.463" height="29.463"/>
+      <g id="Repeat_Grid_55" data-name="Repeat Grid 55" class="cls-3" transform="translate(13.095 13.095)">
+        <g transform="translate(-162 -1439)">
+          <circle id="Ellipse_420" data-name="Ellipse 420" class="cls-4" cx="2" cy="2" r="2" transform="translate(162 1439)"/>
+        </g>
+        <g transform="translate(-156 -1439)">
+          <circle id="Ellipse_420-2" data-name="Ellipse 420" class="cls-4" cx="2" cy="2" r="2" transform="translate(162 1439)"/>
+        </g>
+        <g transform="translate(-150 -1439)">
+          <circle id="Ellipse_420-3" data-name="Ellipse 420" class="cls-4" cx="2" cy="2" r="2" transform="translate(162 1439)"/>
+        </g>
+        <g transform="translate(-144 -1439)">
+          <circle id="Ellipse_420-4" data-name="Ellipse 420" class="cls-4" cx="2" cy="2" r="2" transform="translate(162 1439)"/>
+        </g>
+        <g transform="translate(-162 -1433)">
+          <circle id="Ellipse_420-5" data-name="Ellipse 420" class="cls-4" cx="2" cy="2" r="2" transform="translate(162 1439)"/>
+        </g>
+        <g transform="translate(-156 -1433)">
+          <circle id="Ellipse_420-6" data-name="Ellipse 420" class="cls-4" cx="2" cy="2" r="2" transform="translate(162 1439)"/>
+        </g>
+        <g transform="translate(-150 -1433)">
+          <circle id="Ellipse_420-7" data-name="Ellipse 420" class="cls-4" cx="2" cy="2" r="2" transform="translate(162 1439)"/>
+        </g>
+        <g transform="translate(-144 -1433)">
+          <circle id="Ellipse_420-8" data-name="Ellipse 420" class="cls-4" cx="2" cy="2" r="2" transform="translate(162 1439)"/>
+        </g>
+        <g transform="translate(-162 -1427)">
+          <circle id="Ellipse_420-9" data-name="Ellipse 420" class="cls-4" cx="2" cy="2" r="2" transform="translate(162 1439)"/>
+        </g>
+        <g transform="translate(-156 -1427)">
+          <circle id="Ellipse_420-10" data-name="Ellipse 420" class="cls-4" cx="2" cy="2" r="2" transform="translate(162 1439)"/>
+        </g>
+        <g transform="translate(-150 -1427)">
+          <circle id="Ellipse_420-11" data-name="Ellipse 420" class="cls-4" cx="2" cy="2" r="2" transform="translate(162 1439)"/>
+        </g>
+        <g transform="translate(-144 -1427)">
+          <circle id="Ellipse_420-12" data-name="Ellipse 420" class="cls-4" cx="2" cy="2" r="2" transform="translate(162 1439)"/>
+        </g>
+        <g transform="translate(-162 -1421)">
+          <circle id="Ellipse_420-13" data-name="Ellipse 420" class="cls-4" cx="2" cy="2" r="2" transform="translate(162 1439)"/>
+        </g>
+        <g transform="translate(-156 -1421)">
+          <circle id="Ellipse_420-14" data-name="Ellipse 420" class="cls-4" cx="2" cy="2" r="2" transform="translate(162 1439)"/>
+        </g>
+        <g transform="translate(-150 -1421)">
+          <circle id="Ellipse_420-15" data-name="Ellipse 420" class="cls-4" cx="2" cy="2" r="2" transform="translate(162 1439)"/>
+        </g>
+        <g transform="translate(-144 -1421)">
+          <circle id="Ellipse_420-16" data-name="Ellipse 420" class="cls-4" cx="2" cy="2" r="2" transform="translate(162 1439)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
