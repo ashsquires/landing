@@ -559,7 +559,6 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#75a6cd",endCo
 #quadfour {
   background-image: url("../Images/station.jpg");
   background-size: cover;
-  background-position: 0px -280px;
   height: 460px;
 }
 
