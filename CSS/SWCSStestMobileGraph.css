@@ -770,7 +770,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#75a6cd",endCo
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-  margin-bottom: 100px;
+  margin: 100px 0;
 }
 
 .eachone {
