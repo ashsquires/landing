@@ -100,9 +100,9 @@ $(document).ready(() => {
 
 
 
-  $("#accesslink").click(function() {
+  $("#productlink").click(function() {
     $([document.documentElement, document.body]).animate({
-        scrollTop: $("#request").offset().top
+        scrollTop: $("#products").offset().top
     }, 1000);
   });
 
