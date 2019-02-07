@@ -210,7 +210,7 @@ nav a:hover {
   right: 0;
   left: 0;
   width: 100%;
-  height: calc(100vh);
+  height: calc(105vh);
   z-index: -1;
   background: rgb(117,166,205);
 background: -moz-linear-gradient(174deg, rgba(117,166,205,1) 6%, rgba(251,245,242,1) 58%, rgba(255,255,255,1) 88%);
@@ -224,7 +224,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#75a6cd",endCo
   right: 0;
   left: 0;
   width: 100%;
-  height: calc(100vh);
+  height: calc(105vh);
   z-index: 1;
   background: rgb(186,221,250);
   background: -moz-linear-gradient(155deg, rgba(186,221,250,1) 10%, rgba(255,255,255,1) 60%);
@@ -517,10 +517,12 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#75a6cd",endCo
 
 
 .quad {
+  position: relative;
+  z-index: 2;
   display: flex;
   flex-direction: row;
   width: 100%;
-  margin-top: 100px;
+  margin-top: 120px;
   margin-left: auto;
   margin-right: auto;
   flex-wrap: wrap;
