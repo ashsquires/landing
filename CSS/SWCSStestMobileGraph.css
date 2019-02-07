@@ -545,6 +545,12 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#75a6cd",endCo
     background-size: cover;
 }
 
+#quadone5 {
+  display: none;
+  background-image: url("../Images/cross-rotate.jpg");
+  background-size: cover;
+}
+
 #quadtwo {
     background-color: #052545;
     color: #fff;
@@ -1773,6 +1779,62 @@ footer .norm {
     .concontainer {
       max-width: 80%;
     }
+
+    .three-wrapper {
+      padding-bottom: 40px;
+    }
+
+    .three-flex {
+      flex-direction: column;
+      margin-top: 40px;
+    }
+
+    .three-text-flex {
+      margin: 0 8%;
+    }
+
+
+    .three-text h1 {
+      font-size: 1.4rem;
+      margin-bottom: 36px;
+    }
+
+    .three-text h3 {
+      font-size: 1rem;
+    }
+
+    .products img {
+      height: 20px;
+    }
+
+    .product-text {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+
+    .products {
+      padding-right: 10px;
+    }
+
+    .three-flex img {
+      margin: 0 8%;
+    }
+
+    .pimage {
+      height: 300px;
+    }
+
+    #quadone5 {
+      display: inline;
+    }
+    #quadone {
+      display: none;
+    }
+
+    #quadfour {
+      display: none;
+    }
+
 }
 
 @media screen and (max-height: 700px) {
