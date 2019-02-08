@@ -569,6 +569,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#75a6cd",endCo
 }
 
 .quadtext h3 {
+  display: none;
   font-size: 1.1rem;
   font-weight: 400;
   max-width: 550px;
@@ -864,9 +865,6 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#75a6cd",endCo
 
 /*--------------------PARA4---------------*/
 
-#products {
-  height: 100px;
-}
 
 .products:hover{
   cursor: pointer;
@@ -910,9 +908,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#75a6cd",endCo
 
 /*--------------------PARA4---------------*/
 
-#products {
-  height: 100px;
-}
+
 
 .para4{
   max-width: 100%;
@@ -1631,6 +1627,15 @@ footer .norm {
 
     .graphwrapper1 img {
       width: 400px;
+    }
+
+    .three-flex {
+      flex-direction: column;
+      margin-top: 40px;
+    }
+
+    .three-text-flex {
+      margin: 0 8%;
     }
 
 }

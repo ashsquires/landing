@@ -61,11 +61,13 @@ $(document).ready(() => {
     };
   });
 
+  console.log("here");
   let $p1pic = $('#product-image');
   let $p2pic = $('#product-image2');
   let $p3pic = $('#product-image3');
 
-  $('.products').on('click', (event) => {
+  $(".products").on('click', (event) => {
+    console.log("click");
     $('.products').removeClass('p-active');
     $('.products').removeClass('p-active-ani');
     $(event.currentTarget).addClass('p-active-ani');
@@ -97,9 +99,6 @@ $(document).ready(() => {
 
   $("#mobileaccess").on('click', scrollToFunc("#request"));*/
 
-
-
-
   $("#productlink").click(function() {
     $([document.documentElement, document.body]).animate({
         scrollTop: $("#products").offset().top
@@ -112,8 +111,14 @@ $(document).ready(() => {
     }, 1000);
   });
 
+  $("#quadtwo").on('click', () => {
+    $("#q2text").slideDown( "slow" );
+  });
 
-
+  
+  if ($("#quadtwo").visible(true)) {
+    $("#q2text").slideUp( "slow" );
+  }
 
 
 
