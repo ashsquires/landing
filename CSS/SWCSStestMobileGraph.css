@@ -1840,6 +1840,10 @@ footer .norm {
       display: none;
     }
 
+    .quad > div {
+      min-width: 100%;
+    }
+
 }
 
 @media screen and (max-height: 700px) {
