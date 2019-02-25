@@ -463,6 +463,8 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#75a6cd",endCo
   letter-spacing: 0.03rem;
 }
 
+button:focus {outline:0;}
+
 .p2 p {
   margin-top: 20px;
   color: #21415D;
