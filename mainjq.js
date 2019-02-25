@@ -111,14 +111,6 @@ $(document).ready(() => {
     }, 1000);
   });
 
-  $("#quadtwo").on('click', () => {
-    $("#q2text").slideDown( "slow" );
-  });
-
-  
-  if ($("#quadtwo").visible(true)) {
-    $("#q2text").slideUp( "slow" );
-  }
 
 
 
