@@ -342,10 +342,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#75a6cd",endCo
   justify-content: flex-start;
   align-items: center;
   height: 100px;
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
+  position: relative;
   background-color: rgba(255, 255, 255, 0);
   z-index: 4;
 }
