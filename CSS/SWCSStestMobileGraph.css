@@ -617,8 +617,12 @@ button:focus {outline:0;}
   color: #3E5E7E;
   font-size: 1rem;
   font-weight: 400;
-  max-width: 820px;
+  max-width: 960px;
   margin: 0px auto;
+}
+
+.Company {
+  display: none;
 }
 
 /**************DRIVER*********/
