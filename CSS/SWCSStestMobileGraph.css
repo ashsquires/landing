@@ -5,7 +5,6 @@ html {
 body {
   font-family: proxima-nova, sans-serif;
   margin: 0;
-  max-width: 1440px !important;
   height: auto;
   width: 100%;
   -webkit-font-smoothing: antialiased;
