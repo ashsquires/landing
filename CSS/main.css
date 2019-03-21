@@ -1503,6 +1503,7 @@ li::before {
   justify-content: center;
   width: 100%;
   margin-top: 100px;
+  margin-bottom: 100px;
   max-height: 13rem;
 }
 
@@ -1898,7 +1899,7 @@ footer .norm {
   text-align: left;
   min-height:500px;
   padding: 40px 8%;
-  max-width: 50%;
+  max-width: 700px;
   min-width: 300px;
   background-color: #fff;
   box-shadow: 0px 3px 20px rgba(34,89,120,0.2);
