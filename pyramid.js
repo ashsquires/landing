@@ -5,12 +5,12 @@ $(document).ready(() => {
   //Pin the intro
 
 
-  var para2 = new ScrollMagic.Scene({
+  /* var para2 = new ScrollMagic.Scene({
     triggerElement: '#py2',
     triggerHook: 0.8
   })
   .setClassToggle('.notneeded', 'deact')
-  .addTo(controller);
+  .addTo(controller); */
 
   var para3 = new ScrollMagic.Scene({
     triggerElement: '#py3',
