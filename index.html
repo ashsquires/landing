@@ -10,11 +10,15 @@
 
       gtag('config', 'UA-133457759-1');
     </script>
+
+
+    <script src="ScrollMagic.min.js"></script>
+    <script src="debug.addIndicators.min.js"></script>
     <meta name="viewport" content="width=device-width">
     <meta charset="UTF-8">
     <meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1">
     <title>Silverwing - Enabling Process Innovation</title>
-    <link rel="stylesheet" type="text/css" href="CSS/SWCSStestMobileGraph.css">
+    <link rel="stylesheet" type="text/css" href="CSS/main.css">
     <link rel="stylesheet" href="https://use.typekit.net/wau7ozw.css">
     <link rel="shortcut icon" type="image/png" href="Images/sw icon.png">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
@@ -36,7 +40,7 @@
   <body>
     <div class="body-hid">
       <header class="navbar" id="homenavbar">
-        <div class="navcontent">
+        <div class="navcontent maxwidth">
           <a href="index.html" id="logolink">
             <img id="logo" src="Images/Logo-blue.svg">
           </a>
@@ -55,47 +59,322 @@
 
       </div>
 
-      <div class="maincontent" id="maincontent">
+      <div class="maincontent maxwidth" id="maincontent">
         <div class="maintext">
           <h1 id="mainh1">Reimagining business transactions.<br><span>At scale.</span></h1>
-          <h2>Infrastructure geared for the digital economy, with redesigned sales processes that make it easier to do business with your customers at scale.</h2>
+          <h2>Silverwing provides the end-to-end digital infrastructure for businesses to redesign sales processes and make it easier to transact online, at scale.</h2>
           <div class="action-buttons">
             <a class="herobutton btn-custom" onclick="inter()">Request a Demo</a>
             <a id="learn" class="btn-custom">Learn More</a>
           </div>
         </div>
           <img id="bridge" class="bridgeani" src="Images/bridge new attempt v3.png">
-      </div>
-
-      <div class="logos">
-        <div class="testi">
-          <div id="usedby">
-            <div id="asusedby">AS USED BY</div>
-            <div id="companyname">HP Inc.</div>
+          <div class="mainsvg">
+            <img src="Images/cornertop.svg">
           </div>
-          <div class="testilogo">
-            <img src="Images/HPLOGO.svg">
-          </div>
-          <a id="learnmore"></a>
-        </div>
       </div>
-
-      <!--<div class="sec1">
-        <div class="p1" id="p1">
-          <h1>Today, business customers need personalised solutions. To do this, businesses need to partner for the long term. <span>We call this the Partnership Economy.</span></h1>
-        </div>
-        <img src="Images/people.png">
-      </div>-->
-
     </div>
 
+    <div class="maxwidth">
+      <div class="graph">
+        <div>
+          <h2>78% of business buyers are researching their purchases online, yet only 14% are transacting online</h2>
+          <p class="quote"> - Office for National Statistics & Forrester</p>
+          <img class="gp" id="graphpicblue" src="Images/graph.svg">
+          <img class="gp" id="graphpichidden" src="Images/whiteslide.svg">
+          <img class="gp" id="graphpicgreen" src="Images/graphgreen.svg">
+        </div>
+        <div>
+          <div class="flex legend">
+            <p id="cap1">Buyers Researching Their Purchases Online</p>
+            <p id="cap2">Buyers Transacting Online</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="biggrey">
+      <div class="prybit maxwidth">
+        <div class="pyramid">
+          <div class="row">
+            <div class="option first notneeded">
+              <h3 class="firsttext">ALIGNED<br>VISION</h3>
+            </div>
+          </div>
+          <div class="row">
+            <div class="option first notneeded">
+              <h3 class="firsttext">LONG-TERM<br>SUPPORT</h3>
+            </div>
+            <div class="option first notneeded">
+              <h3 class="firsttext">DEEP<br>EXPERTISE</h3>
+            </div>
+          </div>
+          <div class="row">
+            <div class="option first notneeded">
+              <h3 class="firsttext">FLEXIBILITY</h3>
+            </div>
+            <div class="option first notneeded">
+              <h3 class="firsttext">INFORMATION</h3>
+            </div>
+            <div class="option first">
+              <h3 class="firsttext">SPEED
+                <div class="popup">
+                  SPEED than having to commit volumes or save up spend, allow customers to buy on demand
+                </div>
+              </h3>
+            </div>
+            <div class="option first">
+              <h3 class="firsttext">HASSLE-FREE</h3>
+            </div>
+          </div>
+          <div class="row">
+            <div class="option gr notneeded">
+              <h3 id="price1">
+                PRICE
+                <div class="popup">
+                  PRICE than having to commit volumes or save up spend, allow customers to buy on demand
+                </div>
+              </h3>
+            </div>
+            <div class="option gr">
+              <h3>SPECIFICATIONS
+                <div class="popup">
+                  SPECS than having to commit volumes or save up spend, allow customers to buy on demand
+                </div>
+              </h3>
+            </div>
+            <div class="option gr notneeded">
+              <h3>ETHICAL<br>STANDARDS</h3>
+            </div>
+            <div class="option gr">
+              <h3>REGULATORY<br>COMPLIANCE</h3>
+            </div>
+          </div>
+          <img id="hex" src="Images/hex.svg">
+        </div>
+        <div class="pyrpara">
+          <div>
+            <h2 id="py1">Customers needs have shifted</h2>
+            <p>Business customers have shifted from wanting transactional relationships to collaborative relationships with their suppliers. As a result, they are now assessing value on a much broader range of elements.</p>
+          </div>
+          <div class="pp">
+            <h2 id="py2">Current online processes aren’t offering the value they need</h2>
+            <p>Traditional  websites only offer some of these elements of value. Large amounts of customers are still choosing to buy offline.</p>
+          </div>
+          <div>
+            <h2 id="py3">Online platforms needs to adapt</h2>
+            <p id="py3p">We believe that growth in B2B e-commerce comes not by making traditional online processes faster and better, but from driving process innovation.</p>
+          </div>
+        </div>
+      </div>
+      <div class="tab">
+        <div>
+          <h2 id="py1">Customers needs have shifted</h2>
+          <p>Business customers have shifted from wanting transactional relationships to collaborative relationships with their suppliers. As a result, they are now assessing value on a much broader range of elements.</p>
+        </div>
+        <div class="tabpyramid">
+          <div class="row">
+            <div class="option first">
+              <h3 class="firsttext">ALIGNED<br>VISION</h3>
+            </div>
+          </div>
+          <div class="row">
+            <div class="option first">
+              <h3 class="firsttext">LONG-TERM<br>SUPPORT</h3>
+            </div>
+            <div class="option first">
+              <h3 class="firsttext">DEEP<br>EXPERTISE</h3>
+            </div>
+          </div>
+          <div class="row">
+            <div class="option first">
+              <h3 class="firsttext">FLEXIBILITY</h3>
+            </div>
+            <div class="option first">
+              <h3 class="firsttext">INFORMATION</h3>
+            </div>
+            <div class="option first">
+              <h3 class="firsttext">PRICE
+                <div class="popup">
+                  SPEED than having to commit volumes or save up spend, allow customers to buy on demand
+                </div>
+              </h3>
+            </div>
+            <div class="option first">
+              <h3 class="firsttext">HASSLE-FREE</h3>
+            </div>
+          </div>
+          <div class="row">
+            <div class="option gr">
+              <h3 id="price1">
+                SPEED
+                <div class="popup">
+                  PRICE than having to commit volumes or save up spend, allow customers to buy on demand
+                </div>
+              </h3>
+            </div>
+            <div class="option gr">
+              <h3>SPECIFICATIONS
+                <div class="popup">
+                  SPECS than having to commit volumes or save up spend, allow customers to buy on demand
+                </div>
+              </h3>
+            </div>
+            <div class="option gr">
+              <h3>ETHICAL<br>STANDARDS</h3>
+            </div>
+            <div class="option gr">
+              <h3>REGULATORY<br>COMPLIANCE</h3>
+            </div>
+          </div>
+          <p id="tabtbs">
+            THE TABLE STAKES
+          </p>
+        </div>
+        <div>
+          <h2 id="py2">Online platforms needs to adapt</h2>
+          <p>Traditional websites only offer some of these elements of value. So customers are still choosing to buy offline. We believe that growth in B2B e-commerce comes not by making traditional online processes faster and better, but from driving process innovation.</p>
+        </div>
+      </div>
+    </div>
+    <div class="topb">
+      <img id="topback" src="Images/topback.svg">
+    </div>
+
+
+
+    <div class="thisissw">
+      <div class="maxwidth flexcol zind">
+        <img id="badge" src="Images/swbadge.svg" data-lax-preset="fadeIn" data-lax-anchor="self" data-lax-translate-y="700 10, 600 0">
+        <h2 id="infra" data-lax-preset="fadeIn" data-lax-anchor="self" data-lax-translate-y="700 10, 600 0">Process innovation geared for the Digital Economy</h2>
+        <div class="double flex" data-lax-preset="fadeIn" data-lax-translate-y="700 10, 600 0" data-lax-anchor="self">
+          <h2 id="boxleft" data-lax-anchor="self">At Silverwing, we develop enterprise-grade digital infrastructure to enable smoother, faster, and more coordinated business processes. Our aim is to help businesses offer collaborative sales processes at scale.</h2>
+          <p id="boxright" data-lax-translate-x="700 10, 600 0" data-lax-anchor="self">At Silverwing, we develop enterprise-grade digital infrastructure to enable smoother, faster, and more coordinated business processes. Our aim is to help businesses focus on selling rather than negotiating.</p>
+        </div>
+        <div class="grid flex">
+          <img id="stripe" src="Images/stripe.svg" data-lax-preset="fadeIn" data-lax-translate-y="700 40, 600 0" data-lax-anchor="self">
+        </div>
+        <div class="plearn">
+          <p>Learn more about our innovative processes</p>
+          <a id="pl" class="herobutton btn-custom">View Silverwing Products</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="tablesection maxwidth">
+      <img src="Images/dimension.svg" id="dim">
+      <h2>Enabling a new dimension for digital B2B processes</h2>
+      <table>
+        <tr>
+          <td class="empty"></td>
+          <td class="empty"></td>
+          <td class="empty"></td>
+          <td class="empty"></td>
+          <td class="empty"></td>
+          <td class="action">REACH</td>
+          <td rowspan="5" class="noborder newval">
+            <div class="newvalue flexcol">
+              <img src="Images/swicongreen.svg">
+              NEW<br>VALUE
+            <div>
+          </td>
+        </tr>
+        <tr>
+          <td class="empty"></td>
+          <td class="empty"></td>
+          <td class="empty"></td>
+          <td class="empty"></td>
+          <td class="action">GUIDANCE</td>
+          <td class="empty t2">Rather than having to interact with each customer in isolation,
+reach all customers at once</td>
+        </tr>
+        <tr>
+          <td class="empty"></td>
+          <td class="empty"></td>
+          <td class="empty"></td>
+          <td class="action">SPEED</td>
+          <td class="empty t2">Rather than responding to tenders, proactively inform customers about decisions that could save money for all</td>
+          <td class="empty"></td>
+        </tr>
+        <tr>
+          <td class="empty"></td>
+          <td class="empty"></td>
+          <td class="action">PRICING</td>
+          <td class="empty t2">Rather than negotiating with customers over several weeks or months, allow them to transact in just a few clicks</td>
+          <td class="empty"></td>
+          <td class="empty"></td>
+        </tr>
+        <tr>
+          <td class="empty"></td>
+          <td class="action">FLEXIBILITY</td>
+          <td class="empty t2">Trusted pricing that makes customers choose you every time, knowing they are paying the best and fairest price</td>
+          <td class="empty"></td>
+          <td class="empty"></td>
+          <td class="empty"></td>
+        </tr>
+        <tr>
+          <td class="existing">EXISTING<BR>VALUE</td>
+          <td class="empty t2">Rather than having to commit volumes or save up spend, allow customers to buy on demand</td>
+          <td colspan="4" class="empty"></td>
+          <td class="existing" id="trigger">EXISTING<BR>VALUE</td>
+        </tr>
+        <tr >
+          <td class="empty time">TODAY</td>
+          <td colspan="5" class="empty dashed"></td>
+          <td class="empty time">FUTURE</td>
+        </tr>
+      </table>
+    </div>
+
+    <div class="reset">
+      <img src="Images/bottombacktop.svg" id="bbt">
+      <div class="beneback">
+        <h2 class="title">A GROWTH SOLUTION FOR BUSINESSES</h2>
+        <div class="benefits">
+          <div class="eachone" id="bene1" data-lax-preset="fadeIn" data-lax-translate-y="700 20, 650 0" data-lax-anchor="self">
+            <img src="Images/dinno1.svg">
+            <div class="benip">
+              <h2>Drive Innovation</h2>
+              <p>An ecosystem that reduces the risk of early adoption and encourages referrals to drive the adoption of new technologies</p>
+            </div>
+          </div>
+          <div class="eachone" id="bene2" data-lax-preset="fadeIn" data-lax-translate-y="700 20, 650 0" data-lax-anchor="self">
+            <img src="Images/fastagile1.svg">
+            <div class="benip">
+              <h2>Be Fast and Agile</h2>
+              <p>Digital Processes that are hassle free and enable a quick response to customer demands, anywhere, at the click of a button</p>
+            </div>
+          </div>
+          <div class="eachone" id="bene3" data-lax-preset="fadeIn" data-lax-translate-y="700 20, 650 0" data-lax-anchor="self">
+            <img src="Images/tline1.svg">
+            <div class="benip">
+              <h2>Improve Your Top Line</h2>
+              <p>Boost market share by providing new value to customers. Get ahead of the competition by selling rather than negotiating</p>
+            </div>
+          </div>
+          <div class="eachone" id="bene3" data-lax-preset="fadeIn" data-lax-translate-y="700 20, 650 0" data-lax-anchor="self">
+            <img src="Images/rcosts1.svg">
+            <div class="benip">
+              <h2>Reduce Costs</h2>
+              <p>Reduce customer acquisition costs and servicing costs and free up resources previously tied into duplicated transactional processes</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+
+
+
+    <!--
     <div class="stakewrapper">
       <div class="stake">
         <h2>The stakes are now higher in business transactions</h2>
         <p>Advances in digital have changed expectations. Like consumers, business customers now also expect products and services to be instant, customised and convenient, with ease of doing business and access to solid data becoming key differentiators in B2B.</p>
       </div>
     </div>
-
     <div class="driverwrapper">
       <div class="driver">
         <h3 id="line">VALUE DRIVERS</h3>
@@ -163,9 +442,7 @@
         </div>
       </div>
     </div>
-
     <div class="wd100 masswrapper">
-      <!--<img src="Images/massshape.svg" id="massshape">-->
       <div class="masspara">
         <img src="Images/bene1.svg">
         <h2>A changing landscape</h2>
@@ -173,7 +450,6 @@
       </div>
       <img src="Images/masslights.png" id="masslight">
     </div>
-
     <div class="wd100">
       <div class="flex sw">
         <img src="Images/swex.svg" id="swex">
@@ -190,10 +466,6 @@
         </div>
       </div>
     </div>
-
-
-
-
     <div class="three-wrapper" id="products">
       <div class="three-flex">
         <div class="three-text-flex">
@@ -238,20 +510,11 @@
         <img class="pimage" id="product-image2" src="Images/swcredits1.svg">
         <img class="pimage" id="product-image3" src="Images/documentimage.svg">
       </div>
-    </div>
-
+    </div>-->
 
     <div class="body-hid">
       <div></div>
-
-      <!--<div class="curve">
-        <img src="Images/curve.svg">
-      </div>-->
-
-      <!--<div class="para3">
-        <h1>Enabling businesses to create more value with each customer relationship, the more relationships it develops</h1>
-      </div>-->
-      <div class="benefits">
+      <!--<div class="benefits">
         <div class="eachone" id="bene1">
           <img src="Images/dinno.svg">
           <div class="benip">
@@ -282,16 +545,13 @@
         </div>
       </div>
 
-
-
-
       <div class="request">
         <div class="requestcontent">
           <h2>Engage with your customers, how they need it, at scale.</h2>
           <h3>Digital. Scale. Value. Cost-efficient. Partnership.</h3>
           <button class="final herobutton btn-custom" onclick="inter()">Request A Demo</button>
         </div>
-      </div>
+      </div>-->
 
 
       <footer>
@@ -303,12 +563,6 @@
             <a class="norm" href="mailto:info@silverwing.co" taget="_top">info@silverwing.co</a>
           </div>
           <div class="footerright">
-            <div class="Company right">
-              <h3>Company</h3>
-              <h4>About</h4>
-              <h4>Blog</h4>
-              <h4>Jobs</h4>
-            </div>
             <div class="Legal right">
               <a href="terms.html"><h3 >Legal</h3></a>
               <a href="terms.html"><h4>Website Terms</h4></a>
@@ -321,10 +575,27 @@
     </div>
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
     <script src="jquery-ui.min.js"></script>
-    <script src="main.js"></script>
+    <script src="smoothlearn.js"></script>
     <script src="mainjq.js"></script>
     <script src="hover.js"></script>
-    <script src="driver.js"></script>
+    <script src="pyramid.js"></script>
+    <script src="popper.min.js"></script>
+    <script src="lax.min.js"></script>
+    <script>
+      window.onload = function() {
+      lax.setup({ /* opts */ }) // init
+
+      document.addEventListener('scroll', function(e) {
+        lax.update(window.scrollY) // update every scroll
+      }, false)
+
+      lax.update(window.scrollY) // set initial positions
+    };
+    window.addEventListener("resize", function() {
+	     lax.populateElements()
+    });
+    </script>
+    <!--<script src="popup.js"></script>-->
    <script>
      window.intercomSettings = {
        app_id: "sko35md3"
