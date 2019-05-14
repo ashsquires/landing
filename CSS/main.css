@@ -1926,12 +1926,16 @@ footer .norm {
   display: flex;
   flex-direction: row;
   align-content: center;
-  justify-content: space-between;
+  justify-content: start;
   flex-wrap: wrap;
 }
 
 .conticon {
   height: 16px;
+}
+
+#phone {
+  display: none;
 }
 
 .contdeets h3 {
@@ -1980,7 +1984,7 @@ footer .norm {
 }
 
 .conmarg {
-  margin-right: 10px;
+  margin-right: 40px;
 }
 
 #cem {
