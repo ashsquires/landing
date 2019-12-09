@@ -1485,10 +1485,6 @@ li {
   margin: 0.5rem 0;
 }
 
-li::before {
-  content: url(../Images/swtick.svg);
-  margin-right: 13px;
-}
 
 
 
