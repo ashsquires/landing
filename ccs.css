@@ -1,0 +1,128 @@
+html {
+  font-size: 16px;
+}
+
+.flex {
+  display: flex;
+}
+
+.margin {
+  margin: 0 0 0 0;
+}
+
+.maxwidth {
+  max-width: 1440px;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding: 0 8%;
+}
+
+body {
+  font-family: proxima-nova, sans-serif;
+  margin: auto;
+  height: auto;
+  width: 100%;
+  -webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.body-hid {
+  overflow-x: hidden;
+}
+
+.flex {
+  display: flex;
+}
+
+.logo > img {
+  height: 25px;
+  margin: 25px 0 15px 0;
+}
+
+.main-wrap {
+  padding: 0 40px;
+  width: 100%;
+  flex-direction: column;
+  box-sizing: border-box;
+  padding-bottom: 40px;
+  height: 100%;
+  position: fixed;
+}
+
+.main-wrap-terms {
+  padding: 0 40px;
+  width: 100%;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+.main-content {
+  height: 100%;
+  background-color: #9b1a47;
+}
+
+.main-text {
+  margin-left: 10%;
+  justify-content: center;
+}
+
+.main-left {
+  width: 75%;
+  align-items: center;
+}
+
+.main-right {
+  background-image: url(https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80);
+  background-size: cover;
+  background-position: center;
+  width: 25%;
+  opacity: 0.58;
+}
+
+h3 {
+  margin: 0;
+  font-size: 14px;
+  color: rgb(255, 255, 255, 0.8);
+  font-weight: 500;
+  letter-spacing: 0.04rem;
+}
+
+h2 {
+  font-size: 30px;
+  color: #fff;
+  letter-spacing: 0.01rem;
+  margin: 0;
+  font-weight: 500;
+}
+
+h2.title {
+  color: #102f54;
+  margin-bottom: 40px;
+}
+
+.text {
+  align-items: center;
+}
+
+.navbar {
+  background-color: #9b1a47;
+  margin: 0 -40px 40px -40px;
+  padding: 0 40px;
+}
+
+.logoterms {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 80px;
+}
+
+#ccslogo {
+  height: 55px;
+}
+
+@media only screen and (max-width: 720px) {
+  .main-right {
+    visibility: hidden;
+  }
+}
