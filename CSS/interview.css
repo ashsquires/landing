@@ -12,7 +12,7 @@ body {
 	-moz-osx-font-smoothing: grayscale;
 }
 
-header {
+header.int {
   position: relative;
 }
 
@@ -95,6 +95,7 @@ nav a {
   transition: margin-top 0.2s;
   transition-timing-function: ease;
   cursor: pointer;
+  display: inline-block;
 }
 
 .herobutton:hover {
