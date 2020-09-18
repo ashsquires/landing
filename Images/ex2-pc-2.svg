@@ -1,0 +1,181 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="582" height="442" viewBox="0 0 582 442">
+  <defs>
+    <filter id="Rectangle_4184" x="45" y="22" width="492" height="338" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_3440" x="126.887" y="152.273" width="384.883" height="109.123" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#1864b1" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_3599" data-name="Group 3599" transform="translate(-429 -935)">
+    <rect id="Rectangle_4204" data-name="Rectangle 4204" width="582" height="442" transform="translate(429 935)" fill="#f5f5f5"/>
+    <g id="Group_3577" data-name="Group 3577" transform="translate(-325 828)">
+      <g transform="matrix(1, 0, 0, 1, 754, 107)" filter="url(#Rectangle_4184)">
+        <rect id="Rectangle_4184-2" data-name="Rectangle 4184" width="474" height="320" rx="2" transform="translate(54 28)" fill="#fff"/>
+      </g>
+      <path id="Path_3443" data-name="Path 3443" d="M20915.1-9366.047l-87-43v129h87Z" transform="translate(-19936.096 9671.047)" fill="#d7e7f4"/>
+      <path id="Path_3446" data-name="Path 3446" d="M20915.1-9365.458l-87-43.589v85.768h87Z" transform="translate(-19849.096 9713.279)" fill="#bdefe8"/>
+      <text id="Current_Unit_Price" data-name="Current Unit Price" transform="translate(979 161)" fill="#49628c" font-size="14" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500" letter-spacing="0.02em"><tspan x="0" y="0">Current Unit Price</tspan></text>
+      <text id="Qty" transform="translate(909 161)" fill="#49628c" font-size="14" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500" letter-spacing="0.02em"><tspan x="0" y="0">Qty</tspan></text>
+      <text id="_80.00" data-name="£80.00" transform="translate(979 195)" fill="#e33d5a" font-size="30" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">£80.00</tspan></text>
+      <text id="_2" data-name="2" transform="translate(909 195)" fill="#11447e" font-size="30" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">2</tspan></text>
+      <text id="_100" data-name="£100" transform="translate(849.492 265.645)" fill="#11447e" font-size="14" font-family="ProximaNova-Regular, Proxima Nova" letter-spacing="0.03em"><tspan x="0" y="0">£100</tspan></text>
+      <text id="_90" data-name="£90" transform="translate(849.492 309.809)" fill="#11447e" font-size="14" font-family="ProximaNova-Regular, Proxima Nova" letter-spacing="0.03em"><tspan x="0" y="0">£90</tspan></text>
+      <text id="_80" data-name="£80" transform="translate(849.492 352.273)" fill="#11447e" font-size="14" font-family="ProximaNova-Regular, Proxima Nova" letter-spacing="0.03em"><tspan x="0" y="0">£80</tspan></text>
+      <text id="_70" data-name="£70" transform="translate(849.492 395.59)" fill="#11447e" font-size="14" font-family="ProximaNova-Regular, Proxima Nova" letter-spacing="0.03em"><tspan x="0" y="0">£70</tspan></text>
+      <g id="Group_3544" data-name="Group 3544" transform="translate(892 247.424)">
+        <line id="Line_2032" data-name="Line 2032" y2="4.122" transform="translate(0 0)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-2" data-name="Line 2032" y2="4.122" transform="translate(0 7.557)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-3" data-name="Line 2032" y2="4.809" transform="translate(0 14.426)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-4" data-name="Line 2032" y2="4.122" transform="translate(0 21.983)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-5" data-name="Line 2032" y2="4.809" transform="translate(0 28.853)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-6" data-name="Line 2032" y2="4.809" transform="translate(0 36.409)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-7" data-name="Line 2032" y2="4.122" transform="translate(0 43.966)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-8" data-name="Line 2032" y2="4.809" transform="translate(0 50.836)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-9" data-name="Line 2032" y2="4.809" transform="translate(0 58.392)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-10" data-name="Line 2032" y2="4.122" transform="translate(0 65.949)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-11" data-name="Line 2032" y2="4.809" transform="translate(0 72.819)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-12" data-name="Line 2032" y2="4.809" transform="translate(0 80.375)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-13" data-name="Line 2032" y2="4.122" transform="translate(0 87.932)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-14" data-name="Line 2032" y2="4.809" transform="translate(0 94.801)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-15" data-name="Line 2032" y2="4.122" transform="translate(0 102.358)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-16" data-name="Line 2032" y2="4.122" transform="translate(0 109.915)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-17" data-name="Line 2032" y2="4.809" transform="translate(0 116.784)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-18" data-name="Line 2032" y2="4.122" transform="translate(0 124.341)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-19" data-name="Line 2032" y2="4.122" transform="translate(0 131.898)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-20" data-name="Line 2032" y2="4.809" transform="translate(0 138.767)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+      </g>
+      <g id="Group_3545" data-name="Group 3545" transform="translate(979 247.424)">
+        <line id="Line_2032-21" data-name="Line 2032" y2="4.122" transform="translate(0 0)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-22" data-name="Line 2032" y2="4.122" transform="translate(0 7.557)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-23" data-name="Line 2032" y2="4.809" transform="translate(0 14.426)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-24" data-name="Line 2032" y2="4.122" transform="translate(0 21.983)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-25" data-name="Line 2032" y2="4.809" transform="translate(0 28.853)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-26" data-name="Line 2032" y2="4.809" transform="translate(0 36.409)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-27" data-name="Line 2032" y2="4.122" transform="translate(0 43.966)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-28" data-name="Line 2032" y2="4.809" transform="translate(0 50.836)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-29" data-name="Line 2032" y2="4.809" transform="translate(0 58.392)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-30" data-name="Line 2032" y2="4.122" transform="translate(0 65.949)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-31" data-name="Line 2032" y2="4.809" transform="translate(0 72.819)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-32" data-name="Line 2032" y2="4.809" transform="translate(0 80.375)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-33" data-name="Line 2032" y2="4.122" transform="translate(0 87.932)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-34" data-name="Line 2032" y2="4.809" transform="translate(0 94.801)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-35" data-name="Line 2032" y2="4.122" transform="translate(0 102.358)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-36" data-name="Line 2032" y2="4.122" transform="translate(0 109.915)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-37" data-name="Line 2032" y2="4.809" transform="translate(0 116.784)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-38" data-name="Line 2032" y2="4.122" transform="translate(0 124.341)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-39" data-name="Line 2032" y2="4.122" transform="translate(0 131.898)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-40" data-name="Line 2032" y2="4.809" transform="translate(0 138.767)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+      </g>
+      <g id="Group_3546" data-name="Group 3546" transform="translate(1066 247.424)">
+        <line id="Line_2032-41" data-name="Line 2032" y2="4.122" transform="translate(0 0)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-42" data-name="Line 2032" y2="4.122" transform="translate(0 7.557)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-43" data-name="Line 2032" y2="4.809" transform="translate(0 14.426)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-44" data-name="Line 2032" y2="4.122" transform="translate(0 21.983)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-45" data-name="Line 2032" y2="4.809" transform="translate(0 28.853)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-46" data-name="Line 2032" y2="4.809" transform="translate(0 36.409)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-47" data-name="Line 2032" y2="4.122" transform="translate(0 43.966)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-48" data-name="Line 2032" y2="4.809" transform="translate(0 50.836)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-49" data-name="Line 2032" y2="4.809" transform="translate(0 58.392)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-50" data-name="Line 2032" y2="4.122" transform="translate(0 65.949)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-51" data-name="Line 2032" y2="4.809" transform="translate(0 72.819)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-52" data-name="Line 2032" y2="4.809" transform="translate(0 80.375)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-53" data-name="Line 2032" y2="4.122" transform="translate(0 87.932)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-54" data-name="Line 2032" y2="4.809" transform="translate(0 94.801)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-55" data-name="Line 2032" y2="4.122" transform="translate(0 102.358)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-56" data-name="Line 2032" y2="4.122" transform="translate(0 109.915)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-57" data-name="Line 2032" y2="4.809" transform="translate(0 116.784)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-58" data-name="Line 2032" y2="4.122" transform="translate(0 124.341)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-59" data-name="Line 2032" y2="4.122" transform="translate(0 131.898)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-60" data-name="Line 2032" y2="4.809" transform="translate(0 138.767)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+      </g>
+      <g id="Group_3547" data-name="Group 3547" transform="translate(1144 247.424)">
+        <line id="Line_2032-61" data-name="Line 2032" y2="4.122" transform="translate(0 0)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-62" data-name="Line 2032" y2="4.122" transform="translate(0 7.557)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-63" data-name="Line 2032" y2="4.809" transform="translate(0 14.426)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-64" data-name="Line 2032" y2="4.122" transform="translate(0 21.983)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-65" data-name="Line 2032" y2="4.809" transform="translate(0 28.853)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-66" data-name="Line 2032" y2="4.809" transform="translate(0 36.409)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-67" data-name="Line 2032" y2="4.122" transform="translate(0 43.966)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-68" data-name="Line 2032" y2="4.809" transform="translate(0 50.836)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-69" data-name="Line 2032" y2="4.809" transform="translate(0 58.392)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-70" data-name="Line 2032" y2="4.122" transform="translate(0 65.949)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-71" data-name="Line 2032" y2="4.809" transform="translate(0 72.819)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-72" data-name="Line 2032" y2="4.809" transform="translate(0 80.375)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-73" data-name="Line 2032" y2="4.122" transform="translate(0 87.932)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-74" data-name="Line 2032" y2="4.809" transform="translate(0 94.801)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-75" data-name="Line 2032" y2="4.122" transform="translate(0 102.358)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-76" data-name="Line 2032" y2="4.122" transform="translate(0 109.915)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-77" data-name="Line 2032" y2="4.809" transform="translate(0 116.784)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-78" data-name="Line 2032" y2="4.122" transform="translate(0 124.341)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-79" data-name="Line 2032" y2="4.122" transform="translate(0 131.898)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-80" data-name="Line 2032" y2="4.809" transform="translate(0 138.767)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+      </g>
+      <g id="Group_3548" data-name="Group 3548" transform="translate(1222 247.424)">
+        <line id="Line_2032-81" data-name="Line 2032" y2="4.122" transform="translate(0 0)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-82" data-name="Line 2032" y2="4.122" transform="translate(0 7.557)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-83" data-name="Line 2032" y2="4.809" transform="translate(0 14.426)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-84" data-name="Line 2032" y2="4.122" transform="translate(0 21.983)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-85" data-name="Line 2032" y2="4.809" transform="translate(0 28.853)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-86" data-name="Line 2032" y2="4.809" transform="translate(0 36.409)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-87" data-name="Line 2032" y2="4.122" transform="translate(0 43.966)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-88" data-name="Line 2032" y2="4.809" transform="translate(0 50.836)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-89" data-name="Line 2032" y2="4.809" transform="translate(0 58.392)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-90" data-name="Line 2032" y2="4.122" transform="translate(0 65.949)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-91" data-name="Line 2032" y2="4.809" transform="translate(0 72.819)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-92" data-name="Line 2032" y2="4.809" transform="translate(0 80.375)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-93" data-name="Line 2032" y2="4.122" transform="translate(0 87.932)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-94" data-name="Line 2032" y2="4.809" transform="translate(0 94.801)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-95" data-name="Line 2032" y2="4.122" transform="translate(0 102.358)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-96" data-name="Line 2032" y2="4.122" transform="translate(0 109.915)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-97" data-name="Line 2032" y2="4.809" transform="translate(0 116.784)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-98" data-name="Line 2032" y2="4.122" transform="translate(0 124.341)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-99" data-name="Line 2032" y2="4.122" transform="translate(0 131.898)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+        <line id="Line_2032-100" data-name="Line 2032" y2="4.809" transform="translate(0 138.767)" fill="none" stroke="#e1e8f0" stroke-width="1"/>
+      </g>
+      <text id="_1" data-name="1" transform="translate(892.164 412.123)" fill="#11447e" font-size="14" font-family="ProximaNova-Regular, Proxima Nova" letter-spacing="0.03em"><tspan x="-2.373" y="0">1</tspan></text>
+      <text id="_2-2" data-name="2" transform="translate(979 412.123)" fill="#11447e" font-size="14" font-family="ProximaNova-Regular, Proxima Nova" letter-spacing="0.03em"><tspan x="-4.116" y="0">2</tspan></text>
+      <text id="_3" data-name="3" transform="translate(1065.781 412.123)" fill="#11447e" font-size="14" font-family="ProximaNova-Regular, Proxima Nova" letter-spacing="0.03em"><tspan x="-3.899" y="0">3</tspan></text>
+      <text id="_4_" data-name="4+" transform="translate(1144.191 412.123)" fill="#11447e" font-size="14" font-family="ProximaNova-Regular, Proxima Nova" letter-spacing="0.03em"><tspan x="-7.609" y="0">4+</tspan></text>
+      <line id="Line_2304" data-name="Line 2304" x2="365" transform="translate(891.5 261.5)" fill="none" stroke="#ebf2fa" stroke-width="1"/>
+      <line id="Line_2302" data-name="Line 2302" x2="365" transform="translate(891.5 304.5)" fill="none" stroke="#ebf2fa" stroke-width="1"/>
+      <line id="Line_2299" data-name="Line 2299" x2="365" transform="translate(891.5 347.5)" fill="none" stroke="#ebf2fa" stroke-width="1"/>
+      <line id="Line_2300" data-name="Line 2300" x2="365" transform="translate(891.5 390.5)" fill="none" stroke="#ebf2fa" stroke-width="1"/>
+      <g transform="matrix(1, 0, 0, 1, 754, 107)" filter="url(#Path_3440)">
+        <path id="Path_3440-2" data-name="Path 3440" d="M20826.863-9409.979l175.574,86.328h190.426" transform="translate(-20690.09 9564.05)" fill="none" stroke="#2682de" stroke-width="4"/>
+      </g>
+      <g id="Ellipse_662" data-name="Ellipse 662" transform="translate(1061 342)" fill="#fff" stroke="#2682de" stroke-width="2">
+        <circle cx="5.096" cy="5.096" r="5.096" stroke="none"/>
+        <circle cx="5.096" cy="5.096" r="4.096" fill="none"/>
+      </g>
+      <text id="Unit_Price" data-name="Unit Price" transform="translate(834 357) rotate(-90)" fill="#49628c" font-size="14" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500" letter-spacing="0.02em" opacity="0.7"><tspan x="0" y="0">Unit Price</tspan></text>
+      <text id="Units_Sold" data-name="Units Sold" transform="translate(1033 438)" fill="#49628c" font-size="14" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500" letter-spacing="0.02em" opacity="0.7"><tspan x="0" y="0">Units Sold</tspan></text>
+      <g id="Group_3549" data-name="Group 3549" transform="translate(-139 -277)">
+        <rect id="Rectangle_4189" data-name="Rectangle 4189" width="118" height="32" rx="2" transform="translate(1285 437)" fill="#f5f5f5"/>
+        <text id="PRICE_CURVE" data-name="PRICE CURVE" transform="translate(1316 456)" fill="#49628c" font-size="12" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500" letter-spacing="0.04em"><tspan x="0" y="0">PRICE CURVE</tspan></text>
+        <g id="price-curve-icon" transform="translate(1294 445)">
+          <g id="Rectangle_4202" data-name="Rectangle 4202" fill="#ebf1f7" stroke="#9fbbd6" stroke-width="1">
+            <rect width="15" height="15" rx="1" stroke="none"/>
+            <rect x="0.5" y="0.5" width="14" height="14" rx="0.5" fill="none"/>
+          </g>
+          <path id="Path_3439" data-name="Path 3439" d="M0-3,2,0H5.568l2,3" transform="translate(3.432 7.5)" fill="none" stroke="#429bf5" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Rectangle_4190" data-name="Rectangle 4190" transform="translate(821 148)" fill="#f5f5f5" stroke="#eaeaea" stroke-width="1">
+        <rect width="58" height="55" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="57" height="54" rx="1.5" fill="none"/>
+      </g>
+      <text id="A" transform="translate(840 185)" fill="#48637e" font-size="30" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">A</tspan></text>
+      <rect id="Rectangle_4200" data-name="Rectangle 4200" width="4" height="5" transform="translate(888 259)" fill="#fff"/>
+    </g>
+    <text id="As_Organisation_Y_is_buying_two_units_and_Organisation_X_has_already_been_bought_one_the_unit_price_for_this_order_is_80.00" data-name="As Organisation Y is buying two units, and Organisation X has already been bought one, the unit price for this order is £80.00" transform="translate(464 1297)" fill="#3e5e7e" font-size="18" font-family="SourceSansPro-Italic, Source Sans Pro" font-style="italic" letter-spacing="0.01em"><tspan x="28.26" y="18">As Organisation Y is buying two units, and Organisation X has </tspan><tspan x="25.623" y="44">already been bought one, the unit price for this order is £80.00</tspan></text>
+  </g>
+</svg>

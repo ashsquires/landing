@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="582" height="181" viewBox="0 0 582 181">
+  <defs>
+    <filter id="Rectangle_4201" x="45" y="22" width="492" height="106" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_3594" data-name="Group 3594" transform="translate(-429 -328)">
+    <rect id="Rectangle_4205" data-name="Rectangle 4205" width="582" height="181" transform="translate(429 328)" fill="#f5f5f5"/>
+    <g transform="matrix(1, 0, 0, 1, 429, 328)" filter="url(#Rectangle_4201)">
+      <g id="Rectangle_4201-2" data-name="Rectangle 4201" transform="translate(54 28)" fill="#fff" stroke="#eaf0f4" stroke-width="1">
+        <rect width="474" height="88" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="473" height="87" rx="1.5" fill="none"/>
+      </g>
+    </g>
+    <text id="Unit_Price" data-name="Unit Price" transform="translate(582 382)" fill="#49628c" font-size="14" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500" letter-spacing="0.02em"><tspan x="0" y="0">Unit Price</tspan></text>
+    <text id="_100.00" data-name="£100.00" transform="translate(582 416)" fill="#e33d5a" font-size="30" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">£100.00</tspan></text>
+    <g id="Group_3578" data-name="Group 3578" transform="translate(-466 -53)">
+      <rect id="Rectangle_4189" data-name="Rectangle 4189" width="118" height="32" rx="2" transform="translate(1285 437)" fill="#f5f5f5"/>
+      <text id="FIXED_PRICE" data-name="FIXED PRICE" transform="translate(1316 456)" fill="#49628c" font-size="12" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500" letter-spacing="0.04em"><tspan x="0" y="0">FIXED PRICE</tspan></text>
+      <g id="fixed-price-icon" transform="translate(1294 445)">
+        <g id="Rectangle_4202" data-name="Rectangle 4202" fill="#f5f6f7" stroke="#e3e4e6" stroke-width="1">
+          <rect width="15" height="15" rx="1" stroke="none"/>
+          <rect x="0.5" y="0.5" width="14" height="14" rx="0.5" fill="none"/>
+        </g>
+        <g id="Group_3538" data-name="Group 3538" transform="translate(-778.068 -314)">
+          <line id="Line_2293" data-name="Line 2293" x2="8" transform="translate(781.5 321.5)" fill="none" stroke="#989fa5" stroke-width="1"/>
+          <line id="Line_2294" data-name="Line 2294" y1="4" transform="translate(781.5 319.514)" fill="none" stroke="#989fa5" stroke-width="1"/>
+          <line id="Line_2295" data-name="Line 2295" y1="4" transform="translate(789.5 319.514)" fill="none" stroke="#989fa5" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+    <g id="Rectangle_4202-2" data-name="Rectangle 4202" transform="translate(494 369)" fill="#f5f5f5" stroke="#eaeaea" stroke-width="1">
+      <rect width="58" height="55" rx="2" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57" height="54" rx="1.5" fill="none"/>
+    </g>
+    <text id="B" transform="translate(513 406)" fill="#48637e" font-size="30" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">B</tspan></text>
+    <text id="Offer_B_above_shows_a_Fixed_Price_Offer" data-name="Offer B (above) shows a Fixed Price Offer" transform="translate(430 458)" fill="#3e5e7e" font-size="18" font-family="SourceSansPro-Italic, Source Sans Pro" font-style="italic" letter-spacing="0.01em"><tspan x="140.416" y="18">Offer B (above) shows a Fixed Price Offer</tspan></text>
+  </g>
+</svg>

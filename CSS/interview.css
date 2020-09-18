@@ -1,0 +1,181 @@
+html {
+    font-size: 18px;
+}
+
+body {
+  font-family: source-sans-pro, sans-serif;
+  font-style: normal;
+  margin: auto;
+  height: auto;
+  width: 100%;
+  -webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+header {
+  position: relative;
+}
+
+.int-1 {
+  margin-top: 82px;
+  height: 100%;
+}
+
+h2 {
+  font-weight: 600;
+  color: #102F54;
+  letter-spacing: 0.4px;
+}
+
+h5 {
+  color: #757F8A;
+  font-weight: 600;
+  margin: 0;
+}
+
+h6 {
+  color: #757F8A;
+  font-size: 1rem;
+  letter-spacing: 0.4px;
+  font-weight: 600;
+  margin: 28px 0 18px 0;
+}
+
+p {
+  color: #3E5E7E;
+}
+
+li {
+  color: #3E5E7E;
+}
+
+.int-1 p {
+  margin-bottom: 32px;
+}
+
+
+nav a {
+  padding: 30px 0;
+}
+
+
+.width-50 {
+  width: 50%;
+}
+
+.align-c {
+  align-self: center;
+}
+
+.wrapper-int1 {
+  height: calc(100vh - 82px);
+}
+
+.int-1-img {
+  background-image: url(../Images/int-1.jpg);
+  height: calc(100vh - 122px);
+  background-size: cover;
+}
+
+.herobutton {
+  padding: 15px;
+  width: 236px;
+  border-radius: 2px;
+  border: none;
+  box-shadow: 3px 3px 6px rgba(146, 175, 201, 0.53);
+  background-color: rgba(37, 136, 221, 1);
+  color: #fff;
+  font-size: 1rem;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  font-weight: 500;
+  text-align: center;
+  -webkit-transition: margin-top 0.2s ease; /* Safari */
+  transition: margin-top 0.2s;
+  transition-timing-function: ease;
+  cursor: pointer;
+}
+
+.herobutton:hover {
+  box-shadow: 6px 6px 6px rgba(146, 175, 201, 0.53);
+  margin-top: 10px;
+  background-color: rgba(37, 127, 217);
+}
+
+hr {
+  border-top: 1px solid #E0E0E0;
+  margin: 28px 0;
+}
+
+
+
+
+
+/*******int-2*****/
+
+.int-2 {
+  max-width: 582px;
+  margin: 28px auto 0 auto;
+}
+
+.int-2 p {
+  margin-bottom: 28px;
+}
+
+.back-icon {
+  position: absolute;
+  margin: 4px 0 0 -80px;
+  background-image: url(../Images/back-icon.svg);
+  height: 34px;
+  width: 34px;
+}
+
+.offer-type {
+  margin-bottom: 0 !important;
+}
+
+ol {
+  padding-inline-start: 24px;
+}
+
+li {
+  font-weight: 600;
+  color: #24374A;
+}
+
+p {
+  font-weight: 400;
+}
+
+.example {
+  box-shadow: 0;
+  text-decoration: underline;
+  color: #2682DE;
+  background-color: #fff;
+  margin: 25px 0 0 50px;
+  font-weight: 600;
+  letter-spacing: 0.04px;
+}
+
+.example:hover {
+  color: #195A9B;
+}
+
+.typeform-wrapper {
+  height: calc(100vh - 20px);
+}
+
+#logo-int {
+  height: 40px;
+  position: absolute;
+  margin-left: 8%;
+  margin-top: 21px;
+  z-index: 1;
+}
+
+@media only screen and (max-width: 768px) {
+  .btn-custom {
+      display: inline;
+  }
+}
